@@ -1,5 +1,5 @@
 # Static Website Hosting with Apache
-#Static Website hosting By VANSH BAGRA (2412139)
+# Static Website hosting By VANSH BAGRA (2412139)
 
 ## Part 1: Local Development Setup
 
