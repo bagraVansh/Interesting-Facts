@@ -1,4 +1,4 @@
-#Static Website Hosting using Apache server by VANSH BAGRA(2412139) from National Institute of Technology Silchar
+# Static Website Hosting using Apache server by VANSH BAGRA(2412139) from National Institute of Technology Silchar
 
 ## Part 1: Local Development Setup
 
