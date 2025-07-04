@@ -1,5 +1,4 @@
-# Static Website Hosting with Apache
-# By VANSH BAGRA from National Institute of Technology Silchar for GCGC Scholar ID: 2412139
+#Static Website Hosting using Apache server by VANSH BAGRA(2412139) from National Institute of Technology Silchar
 
 ## Part 1: Local Development Setup
 
